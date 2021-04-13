@@ -20,6 +20,6 @@ jobs:
           ftp_host: ftp.xn--rga.com
           ftp_username: ${{ secrets.FTP_USERNAME }}
           ftp_password: ${{ secrets.FTP_PASSWORD }}
-          local_source_dir: ""
+          local_source_dir: "public"
           dist_target_dir: ${{ secrets.DOMAIN }}
           delete: "false"
