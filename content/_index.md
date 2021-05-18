@@ -1,5 +1,5 @@
 ---
-title: 'work.com: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+title: 'work.com: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "work.com is under construction."
 ---
 
